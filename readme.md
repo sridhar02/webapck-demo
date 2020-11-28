@@ -1,1 +1,1 @@
-# A sample application using vanila javascript with webapck guide from offical website.
+### A sample application using vanila javascript with webpack guide from offical website.
